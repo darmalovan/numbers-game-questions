@@ -3,28 +3,28 @@
   "gameNumber": 2,
   "questions": [
     {
-      "question": "When were metallica formed",
+      "question": "When were Metallica formed?",
       "answer": 1981,
+      "range": 3
+    },
+    {
+      "question": "When Jimi hendrix died?",
+      "answer": 1970,
+      "range": 2
+    },
+    {
+      "question": "How many people live in united states? (in millions)",
+      "answer": 336,
       "range": 4
     },
     {
-      "question": "How many notes are in octave (including half tones)?",
-      "answer": 12,
-      "range": 2
+      "question": "How many days are in 17 years?",
+      "answer": 6205,
+      "range": 30
     },
     {
-      "question": "How many people live in Israel? (in millions)",
-      "answer": 9,
-      "range": 2
-    },
-    {
-      "question": "When was the first computer invented?",
-      "answer": 1946,
-      "range": 10
-    },
-    {
-      "question": "How much pages does War and Peace have?",
-      "answer": 1296,
+      "question": "How many people die every minute?",
+      "answer": 106,
       "range": 30
     }
   ]
