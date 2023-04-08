@@ -1,0 +1,31 @@
+{
+  "date": "09-04-23",
+  "gameNumber": 2,
+  "questions": [
+    {
+      "question": "When were metallica formed",
+      "answer": 1981,
+      "range": 4
+    },
+    {
+      "question": "How many notes are in octave (including half tones)?",
+      "answer": 12,
+      "range": 2
+    },
+    {
+      "question": "How many people live in Israel? (in millions)",
+      "answer": 9,
+      "range": 2
+    },
+    {
+      "question": "When was the first computer invented?",
+      "answer": 1946,
+      "range": 10
+    },
+    {
+      "question": "How much pages does War and Peace have?",
+      "answer": 1296,
+      "range": 30
+    }
+  ]
+}
