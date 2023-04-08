@@ -1,0 +1,31 @@
+{
+  "date": "08-04-23",
+  "gameNumber": 1,
+  "questions": [
+    {
+      "question": "How many strings are in electric guitar?",
+      "answer": 6,
+      "range": 2
+    },
+    {
+      "question": "How many notes are in octave?",
+      "answer": 12,
+      "range": 2
+    },
+    {
+      "question": "How many people live in Israel? (in millions)",
+      "answer": 9,
+      "range": 2
+    },
+    {
+      "question": "When was the first computer invented?",
+      "answer": 1946,
+      "range": 10
+    },
+    {
+      "question": "What is the length of Israel (in KM)?",
+      "answer": 420,
+      "range": 30
+    }
+  ]
+}
