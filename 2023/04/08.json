@@ -3,12 +3,12 @@
   "gameNumber": 1,
   "questions": [
     {
-      "question": "How many strings are in electric guitar (including half tones)?",
+      "question": "How many strings are in electric guitar?",
       "answer": 6,
       "range": 2
     },
     {
-      "question": "How many notes are in octave?",
+      "question": "How many notes are in octave (including half tones)?",
       "answer": 12,
       "range": 2
     },
