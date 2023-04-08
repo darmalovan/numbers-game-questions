@@ -3,7 +3,7 @@
   "gameNumber": 1,
   "questions": [
     {
-      "question": "How many strings are in electric guitar?",
+      "question": "How many strings are in electric guitar (including half tones)?",
       "answer": 6,
       "range": 2
     },
@@ -23,8 +23,8 @@
       "range": 10
     },
     {
-      "question": "What is the length of Israel (in KM)?",
-      "answer": 420,
+      "question": "How much pages does War and Peace have?",
+      "answer": 1296,
       "range": 30
     }
   ]
