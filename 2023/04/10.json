@@ -1,0 +1,31 @@
+{
+  "date": "10-04-23",
+  "gameNumber": 3,
+  "questions": [
+    {
+      "question": "When was the first eurovision?",
+      "answer": 1956,
+      "range": 3
+    },
+    {
+      "question": "How many countries are in the world?",
+      "answer": 195,
+      "range": 15
+    },
+    {
+      "question": "How many billionaires in the world?",
+      "answer": 2640,
+      "range": 200
+    },
+    {
+      "question": "How many characters are in the Bible?",
+      "answer": 788280,
+      "range": 100000
+    },
+    {
+      "question": "How many words are in the Hindi alphabet?",
+      "answer": 50,
+      "range": 5
+    }
+  ]
+}
