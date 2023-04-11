@@ -23,7 +23,7 @@
       "range": 100000
     },
     {
-      "question": "How many words are in the Hindi alphabet?",
+      "question": "How many characters are in the Hindi alphabet?",
       "answer": 50,
       "range": 5
     }

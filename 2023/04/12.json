@@ -1,0 +1,31 @@
+{
+  "date": "12-04-23",
+  "gameNumber": 5,
+  "questions": [
+    {
+      "question": "How many elements are there in the periodic table?",
+      "answer": 118,
+      "range": 3
+    },
+    {
+      "question": "How many bones are in the human body",
+      "answer": 206,
+      "range": 5
+    },
+    {
+      "question": "What is the maximum depth of the ocean in meters?",
+      "answer": 11034,
+      "range": 1000
+    },
+    {
+      "question": "How many skyscrapers are there in New York City?",
+      "answer": 284,
+      "range": 20
+    },
+    {
+      "question": "In what year was the first iPhone released?",
+      "answer": 2007,
+      "range": 2
+    }
+  ]
+}
