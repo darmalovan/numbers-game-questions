@@ -5,10 +5,10 @@
     {
       "question": "How many elements are there in the periodic table?",
       "answer": 118,
-      "range": 3
+      "range": 5
     },
     {
-      "question": "How many bones are in the human body",
+      "question": "How many bones are in the human body?",
       "answer": 206,
       "range": 5
     },
@@ -20,7 +20,7 @@
     {
       "question": "How many skyscrapers are there in New York City?",
       "answer": 284,
-      "range": 20
+      "range": 40
     },
     {
       "question": "In what year was the first iPhone released?",
