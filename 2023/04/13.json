@@ -1,0 +1,31 @@
+{
+  "date": "13-04-23",
+  "gameNumber": 6,
+  "questions": [
+    {
+      "question": "In what year did the first episode of the TV show Friends air?",
+      "answer": 1994,
+      "range": 3
+    },
+    {
+      "question": "What is the estimated height of the Burj Khalifa in meters?",
+      "answer": 828,
+      "range": 50
+    },
+    {
+      "question": "What is the estimated age of the universe in billions of years?",
+      "answer": 13.8,
+      "range": 1
+    },
+    {
+      "question": "How many colors are in a rainbow?",
+      "answer": 7,
+      "range": 1
+    },
+    {
+      "question": "In what year did World War II end?",
+      "answer": 1945,
+      "range": 3
+    }
+  ]
+}
