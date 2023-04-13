@@ -1,0 +1,31 @@
+{
+  "date": "14-04-23",
+  "gameNumber": 7,
+  "questions": [
+    {
+      "question": "For how much elon musk bought twitter (in billions)?",
+      "answer": 44,
+      "range": 5
+    },
+    {
+      "question": "In what year BMW was founded?",
+      "answer": 1916,
+      "range": 10
+    },
+    {
+      "question": "How many planets are in our solar system?",
+      "answer": 8,
+      "range": 1
+    },
+    {
+      "question": "What's average life expectancy of females in the world?",
+      "answer": 75.6,
+      "range": 2
+    },
+    {
+      "question": "What's value of pi?",
+      "answer": 3.14,
+      "range": 0.2
+    }
+  ]
+}
