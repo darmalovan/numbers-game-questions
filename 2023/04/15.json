@@ -1,0 +1,31 @@
+{
+  "date": "15-04-23",
+  "gameNumber": 8,
+  "questions": [
+    {
+      "question": "What's the yearly inflation rate in Argentina?",
+      "answer": 102,
+      "range": 10
+    },
+    {
+      "question": "How many people lived in the world in 1900? (In Billions)",
+      "answer": 1.65,
+      "range": 1
+    },
+    {
+      "question": "How many people live in the world today? (in Billions)",
+      "answer": 8,
+      "range": 1
+    },
+    {
+      "question": "How many people expected to be in to world by 2050? (in Billions)",
+      "answer": 9.8,
+      "range": 1
+    },
+    {
+      "question": "When the Beatles split up?",
+      "answer": 1970,
+      "range": 4
+    }
+  ]
+}
