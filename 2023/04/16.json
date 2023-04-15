@@ -1,0 +1,31 @@
+{
+  "date": "16-04-23",
+  "gameNumber": 9,
+  "questions": [
+    {
+      "question": "In which year did the US declaration of independence was signed?",
+      "answer": 1776,
+      "range": 10
+    },
+    {
+      "question": "How many views Gangnam Style has on YouTube? (in Billions)",
+      "answer": 4.7,
+      "range": 1
+    },
+    {
+      "question": "How many cities are in Israel?",
+      "answer": 77,
+      "range": 5
+    },
+    {
+      "question": "What's the height of mount Everest? (in Meters)",
+      "answer": 8849,
+      "range": 100
+    },
+    {
+      "question": "how many band members did Nirvana have?",
+      "answer": 3,
+      "range": 1
+    }
+  ]
+}
