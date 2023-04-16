@@ -1,0 +1,31 @@
+{
+  "date": "17-04-23",
+  "gameNumber": 10,
+  "questions": [
+    {
+      "question": "What is the average weight of a human brain (in Kg)?",
+      "answer": 1.4,
+      "range": 0.5
+    },
+    {
+      "question": "How many users Facebook have? (in Billions)",
+      "answer": 2.96,
+      "range": 1
+    },
+    {
+      "question": "How long is a flight from London to New York? (in Hours)",
+      "answer": 8,
+      "range": 1
+    },
+    {
+      "question": "How long is the flight from New York to London? (in Hours)",
+      "answer": 7,
+      "range": 1
+    },
+    {
+      "question": "How many seats are in the Wembley stadium?",
+      "answer": 90000,
+      "range": 10000
+    }
+  ]
+}
