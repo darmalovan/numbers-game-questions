@@ -1,0 +1,31 @@
+{
+  "date": "18-04-23",
+  "gameNumber": 11,
+  "questions": [
+    {
+      "question": "In which year world war 2 ended?",
+      "answer": 1945,
+      "range": 2
+    },
+    {
+      "question": "When was Windows 3.11 released?",
+      "answer": 1993,
+      "range": 2
+    },
+    {
+      "question": "How many amendments are there to the Constitution?",
+      "answer": 27,
+      "range": 2
+    },
+    {
+      "question": "If you draw a straight line between London and Paris, what will be the distance (in KM)?",
+      "answer": 344,
+      "range": 30
+    },
+    {
+      "question": "How many megabytes are in a standard floppy disk?",
+      "answer": 1.44,
+      "range": 0.5
+    }
+  ]
+}
