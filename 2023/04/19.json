@@ -1,0 +1,31 @@
+{
+  "date": "19-04-23",
+  "gameNumber": 12,
+  "questions": [
+    {
+      "question": "What the percentage of left-handed people in the world?",
+      "answer": 10,
+      "range": 2
+    },
+    {
+      "question": "What percent of Earth is water?",
+      "answer": 70,
+      "range": 10
+    },
+    {
+      "question": "What is speed of sound in KM?",
+      "answer": 1236,
+      "range": 100
+    },
+    {
+      "question": "How long it takes for light to reach earth from the sun? (in minutes)",
+      "answer": 8.3,
+      "range": 1
+    },
+    {
+      "question": "How old is the the oldest living person?",
+      "answer": 116,
+      "range": 5
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "20-04-23",
+  "gameNumber": 13,
+  "questions": [
+    {
+      "question": "How old is earth? (in Billions)",
+      "answer": 4.5,
+      "range": 0.5
+    },
+    {
+      "question": "How many steps does it take to climb the Eiffel Tower?",
+      "answer": 1665,
+      "range": 100
+    },
+    {
+      "question": "When was the game of Monopoly invented?",
+      "answer": 1903,
+      "range": 10
+    },
+    {
+      "question": "What the percentage that water watermelon has?",
+      "answer": 92,
+      "range": 10
+    },
+    {
+      "question": "What the percentage that apple has?",
+      "answer": 86,
+      "range": 8
+    }
+  ]
+}
