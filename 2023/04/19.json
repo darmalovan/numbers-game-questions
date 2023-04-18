@@ -3,7 +3,7 @@
   "gameNumber": 12,
   "questions": [
     {
-      "question": "What the percentage of left-handed people in the world?",
+      "question": "What's the percentage of left-handed people in the world?",
       "answer": 10,
       "range": 2
     },
@@ -13,7 +13,7 @@
       "range": 10
     },
     {
-      "question": "What is speed of sound in KM?",
+      "question": "What is the speed of sound in km/h?",
       "answer": 1236,
       "range": 100
     },
