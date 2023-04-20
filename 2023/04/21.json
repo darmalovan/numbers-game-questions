@@ -1,0 +1,31 @@
+{
+  "date": "21-04-23",
+  "gameNumber": 14,
+  "questions": [
+    {
+      "question": "What year did the Titanic sink?",
+      "answer": 1912,
+      "range": 10
+    },
+    {
+      "question": "What the longest times in years that someone has been in a coma?",
+      "answer": 37,
+      "range": 5
+    },
+    {
+      "question": "What is the fastest serve that was recorded in a tennis match? (in km/h)",
+      "answer": 253,
+      "range": 20
+    },
+    {
+      "question": "How many Olympics games were held till now?",
+      "answer": 29,
+      "range": 2
+    },
+    {
+      "question": "How many wings honey bee have?",
+      "answer": 4,
+      "range": 1
+    }
+  ]
+}
