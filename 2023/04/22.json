@@ -1,0 +1,31 @@
+{
+  "date": "22-04-23",
+  "gameNumber": 15,
+  "questions": [
+    {
+      "question": "What is the smallest number that is not prime?",
+      "answer": 4,
+      "range": 1
+    },
+    {
+      "question": "What year was the first man on the moon?",
+      "answer": 1969,
+      "range": 5
+    },
+    {
+      "question": "How many times nuclear weapons were used?",
+      "answer": 2,
+      "range": 1
+    },
+    {
+      "question": "How many floors are in the Empire State building?",
+      "answer": 102,
+      "range": 10
+    },
+    {
+      "question": "What is the maximum score you can get in snooker?",
+      "answer": 147,
+      "range": 13
+    }
+  ]
+}
