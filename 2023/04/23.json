@@ -1,0 +1,31 @@
+{
+  "date": "23-04-23",
+  "gameNumber": 16,
+  "questions": [
+    {
+      "question": "How many white pieces are in backgammon?",
+      "answer": 15,
+      "range": 1
+    },
+    {
+      "question": "How many cards are in a standard deck without jokers?",
+      "answer": 52,
+      "range": 3
+    },
+    {
+      "question": "In which year Kasparov played against deep blue?",
+      "answer": 1997,
+      "range": 3
+    },
+    {
+      "question": "What is the highest number in roulette?",
+      "answer": 36,
+      "range": 2
+    },
+    {
+      "question": "What is the lowest number in roulette?",
+      "answer": 0,
+      "range": 1
+    }
+  ]
+}
