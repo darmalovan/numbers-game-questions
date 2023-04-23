@@ -1,0 +1,31 @@
+{
+  "date": "24-04-23",
+  "gameNumber": 17,
+  "questions": [
+    {
+      "question": "What is the average a woman get married in Israel?",
+      "answer": 25.1,
+      "range": 2
+    },
+    {
+      "question": "How many people live in Tokyo? (millions)",
+      "answer": 37.1,
+      "range": 3
+    },
+    {
+      "question": "What is the world record in 100m race?",
+      "answer": 9.58,
+      "range": 1
+    },
+    {
+      "question": "How much is 20 inches in cm?",
+      "answer": 50.8,
+      "range": 3
+    },
+    {
+      "question": "What is Michael Jordan's number?",
+      "answer": 23,
+      "range": 1
+    }
+  ]
+}
