@@ -1,0 +1,31 @@
+{
+  "date": "25-04-23",
+  "gameNumber": 18,
+  "questions": [
+    {
+      "question": "Which year the bitcoin started?",
+      "answer": 2009,
+      "range": 3
+    },
+    {
+      "question": "How many teeth do humans have?",
+      "answer": 32,
+      "range": 3
+    },
+    {
+      "question": "How many people can be in a whatsapp group?",
+      "answer": 1024,
+      "range": 10
+    },
+    {
+      "question": "How many grand slams has nadal won?",
+      "answer": 22,
+      "range": 2
+    },
+    {
+      "question": "What's Joe biden age?",
+      "answer": 80,
+      "range": 3
+    }
+  ]
+}
