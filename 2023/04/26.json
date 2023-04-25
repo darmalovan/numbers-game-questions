@@ -1,0 +1,31 @@
+{
+  "date": "26-04-23",
+  "gameNumber": 19,
+  "questions": [
+    {
+      "question": "How old is Israel?",
+      "answer": 75,
+      "range": 3
+    },
+    {
+      "question": "How many people live on Israel?",
+      "answer": 9.7,
+      "range": 0.5
+    },
+    {
+      "question": "How many times Israel won the eurovision?",
+      "answer": 4,
+      "range": 1
+    },
+    {
+      "question": "What is the length of the jordan river?",
+      "answer": 251,
+      "range": 20
+    },
+    {
+      "question": "How many people lived on israel 1950 (in millions)?",
+      "answer": 1.37,
+      "range": 1
+    }
+  ]
+}
