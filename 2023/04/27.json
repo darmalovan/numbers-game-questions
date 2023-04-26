@@ -1,0 +1,31 @@
+{
+  "date": "26-04-23",
+  "gameNumber": 19,
+  "questions": [
+    {
+      "question": "When was the first commercial flight?",
+      "answer": 1914,
+      "range": 5
+    },
+    {
+      "question": "How many flights operate worldwide each day?",
+      "answer": 100000,
+      "range": 10000
+    },
+    {
+      "question": "How many colors are in the flag of south africa?",
+      "answer": 6,
+      "range": 1
+    },
+    {
+      "question": "What is a perefect score on bowling?",
+      "answer": 300,
+      "range": 20
+    },
+    {
+      "question": "How many strikes you need to have in bowling to get a perfect score?",
+      "answer": 12,
+      "range": 1
+    }
+  ]
+}
