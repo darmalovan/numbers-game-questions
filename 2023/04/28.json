@@ -1,0 +1,31 @@
+{
+  "date": "28-04-23",
+  "gameNumber": 21,
+  "questions": [
+    {
+      "question": "How many calories are in a banana?",
+      "answer": 89,
+      "range": 10
+    },
+    {
+      "question": "What is the next number in the following sequence 0,1,1,2,3,5,8... ?",
+      "answer": 13,
+      "range": 1
+    },
+    {
+      "question": "What is the hour difference between New York and San Francisco?",
+      "answer": 3,
+      "range": 1
+    },
+    {
+      "question": "In which year woodstock festival held?",
+      "answer": 1969,
+      "range": 3
+    },
+    {
+      "question": "How far below sea level is the Dead Sea shore in meters?",
+      "answer": 427,
+      "range": 20
+    }
+  ]
+}
