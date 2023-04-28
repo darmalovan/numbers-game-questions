@@ -1,0 +1,31 @@
+{
+  "date": "29-04-23",
+  "gameNumber": 22,
+  "questions": [
+    {
+      "question": "What is the age of the oldest dog in the world?",
+      "answer": 30,
+      "range": 2
+    },
+    {
+      "question": "How fast can a cheetah run in km/h?",
+      "answer": 120,
+      "range": 10
+    },
+    {
+      "question": "How long it takes a spider to build a web? (in hours)",
+      "answer": 1,
+      "range": 1
+    },
+    {
+      "question": "How long ago did the dinosaurs last live on Earth? (in millions of years)",
+      "answer": 65,
+      "range": 6
+    },
+    {
+      "question": "How long is the longest whale ever recorded? (in meters)",
+      "answer": 33.58,
+      "range": 3
+    }
+  ]
+}
