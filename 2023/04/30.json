@@ -1,0 +1,31 @@
+{
+  "date": "30-04-23",
+  "gameNumber": 23,
+  "questions": [
+    {
+      "question": "How many tennis grand slams are there in a year?",
+      "answer": 4,
+      "range": 1
+    },
+    {
+      "question": "How many liters are in one gallon?",
+      "answer": 3.785,
+      "range": 1
+    },
+    {
+      "question": "How many seasons did Friends have?",
+      "answer": 10,
+      "range": 1
+    },
+    {
+      "question": "How many episodes did friends have?",
+      "answer": 236,
+      "range": 10
+    },
+    {
+      "question": "How many McDonald's are there in the world?",
+      "answer": 40275,
+      "range": 5000
+    }
+  ]
+}
