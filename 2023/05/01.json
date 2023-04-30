@@ -1,0 +1,31 @@
+{
+  "date": "01-05-23",
+  "gameNumber": 24,
+  "questions": [
+    {
+      "question": "How many \"Die hard\" movies are there?",
+      "answer": 5,
+      "range": 1
+    },
+    {
+      "question": "How many people can fit in an Uber XL?",
+      "answer": 6,
+      "range": 1
+    },
+    {
+      "question": "What is maximum healthy BMI for a male?",
+      "answer": 24.9,
+      "range": 3
+    },
+    {
+      "question": "How many days are in May?",
+      "answer": 31,
+      "range": 1
+    },
+    {
+      "question": "What is the largest prize ever won on lottery? (in billions)",
+      "answer": 2.04,
+      "range": 0.5
+    }
+  ]
+}
