@@ -1,0 +1,31 @@
+{
+  "date": "02-05-23",
+  "gameNumber": 25,
+  "questions": [
+    {
+      "question": "What is the age of the oldest tree on Earth?",
+      "answer": 5000,
+      "range": 500
+    },
+    {
+      "question": "How many days passed from the beginning of the year?",
+      "answer": 121,
+      "range": 3
+    },
+    {
+      "question": "How many Beatles members are still alive?",
+      "answer": 2,
+      "range": 1
+    },
+    {
+      "question": "How many minutes can a cd hold?",
+      "answer": 80,
+      "range": 5
+    },
+    {
+      "question": "In which year did princess Diana die?",
+      "answer": 1997,
+      "range": 2
+    }
+  ]
+}
