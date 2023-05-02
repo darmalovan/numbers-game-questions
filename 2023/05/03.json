@@ -1,0 +1,31 @@
+{
+  "date": "03-05-23",
+  "gameNumber": 26,
+  "questions": [
+    {
+      "question": "How many people live in Indonesia? (in millions)",
+      "answer": 280,
+      "range": 500
+    },
+    {
+      "question": "What is one bitcoin price in USD?",
+      "answer": 28700,
+      "range": 1000
+    },
+    {
+      "question": "How many followers Elon Musk has on twitter? (in millions)",
+      "answer": "137",
+      "range": 10
+    },
+    {
+      "question": "How many times the hands of a clock overlap in a day?",
+      "answer": 22,
+      "range": 1
+    },
+    {
+      "question": "How old is our galaxy? (in billions of years)",
+      "answer": 13.6,
+      "range": 1
+    }
+  ]
+}
