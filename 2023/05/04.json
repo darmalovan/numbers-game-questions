@@ -1,0 +1,31 @@
+{
+  "date": "04-05-23",
+  "gameNumber": 27,
+  "questions": [
+    {
+      "question": "How many seasons does Seinfeld have?",
+      "answer": 9,
+      "range": 1
+    },
+    {
+      "question": "How long is a marathon in km?",
+      "answer": 42.195,
+      "range": 2
+    },
+    {
+      "question": "How many flavors does ben and jerry's have?",
+      "answer": 98,
+      "range": 10
+    },
+    {
+      "question": "How many calories are in an orange?",
+      "answer": 47,
+      "range": 10
+    },
+    {
+      "question": "How many studio albums does dire straits have?",
+      "answer": 6,
+      "range": 1
+    }
+  ]
+}
