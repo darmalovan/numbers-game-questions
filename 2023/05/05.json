@@ -1,0 +1,31 @@
+{
+  "date": "05-05-23",
+  "gameNumber": 28,
+  "questions": [
+    {
+      "question": "How many hours it take to cook a Jachnun? (Mazal tov to Lidor & Hophy)",
+      "answer": 10,
+      "range": 2
+    },
+    {
+      "question": "In which age Mark zuckerberg became billionaire?",
+      "answer": 23,
+      "range": 2
+    },
+    {
+      "question": "How many times the USA is bigger than india?",
+      "answer": 3,
+      "range": 1
+    },
+    {
+      "question": "What is 1/7 in percentage?",
+      "answer": 14.2,
+      "range": 2
+    },
+    {
+      "question": "How many pieces are in chess?",
+      "answer": 32,
+      "range": 2
+    }
+  ]
+}
