@@ -1,0 +1,31 @@
+{
+  "date": "06-05-23",
+  "gameNumber": 29,
+  "questions": [
+    {
+      "question": "How many days it takes to reach the moon?",
+      "answer": 3,
+      "range": 1
+    },
+    {
+      "question": "What's the guinness world record for being underwater? (In minutes)",
+      "answer": 24,
+      "range": 2
+    },
+    {
+      "question": "How many Olympic golds has Usain Bolt won?",
+      "answer": 8,
+      "range": 1
+    },
+    {
+      "question": "How many legs does a butterfly have?",
+      "answer": 6,
+      "range": 1
+    },
+    {
+      "question": "How many years is a billion seconds?",
+      "answer": 31,
+      "range": 3
+    }
+  ]
+}
