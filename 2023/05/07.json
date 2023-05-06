@@ -1,0 +1,31 @@
+{
+  "date": "07-05-23",
+  "gameNumber": 30,
+  "questions": [
+    {
+      "question": "What's the length in cm of one feet?",
+      "answer": 30.84,
+      "range": 3
+    },
+    {
+      "question": "How many times does the average person blink a minute?",
+      "answer": 12,
+      "range": 2
+    },
+    {
+      "question": "When the first car was invented?",
+      "answer": 1886,
+      "range": 5
+    },
+    {
+      "question": "How long is the titanic movie in minutes?",
+      "answer": 195,
+      "range": 10
+    },
+    {
+      "question": "What the height in cm of the tallest living man in the world?",
+      "answer": 251,
+      "range": 10
+    }
+  ]
+}
